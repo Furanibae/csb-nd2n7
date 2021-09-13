@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c(3),o=c.n(r),s=(c(8),c(0));function d(){return Object(s.jsxs)("div",{id:"cuadro",className:"App",children:[Object(s.jsx)("h1",{id:"hola",children:"Hola mundo!"}),Object(s.jsx)("h2",{children:"Curso de React Completo"})]})}var i=document.getElementById("root");o.a.render(Object(s.jsx)(n.StrictMode,{children:Object(s.jsx)(d,{})}),i)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.e45c6686.chunk.js.map
